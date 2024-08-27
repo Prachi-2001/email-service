@@ -16,7 +16,7 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the Repository**
    ```bash
-   git clone [https:](https://github.com/Prachi-2001/email-service.git)
+   git clone https://github.com/Prachi-2001/email-service.git
 2. **Navigate to the Project Directory**
    ```bash
    cd email-service
